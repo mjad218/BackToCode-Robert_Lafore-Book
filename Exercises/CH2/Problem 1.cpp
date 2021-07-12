@@ -10,6 +10,7 @@ enter the number of gallons, and then display the equavalent in cubic feet.
 
 #include<iostream> 
 #include <string>
+#include <iomanip>
 
 
 using namespace std; 
