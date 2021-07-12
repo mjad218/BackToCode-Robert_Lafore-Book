@@ -3,4 +3,9 @@ Reading Object Oriented Programming in C++ by Robert Lafore
 
 ## Practising the Book's Excersises  
 
-I have now finished Ch2 
+you can find my solution to the exercises right here : 
+
+
+### Chapter two Exercises 
+  1. [Link to Google](https://www.google.com)
+  2. 
