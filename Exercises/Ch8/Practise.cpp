@@ -13,19 +13,21 @@ class String {
 public:
 
 	String() {
-
+		  
 		s[0] = '\0';
 	}
 
-	String(char s[]) {
+	String(const char s[]) {
 
 		strcpy_s(this->s, s);
 
 	}
 
-	operator char* () {
 
-		return s;
+	explicit operator char*() {
+	
+	
+	
 	}
 
 };
@@ -34,6 +36,7 @@ int main() {
 
 	String s;
 
+	String s2 = "I a m";
 
 	char cs[] = "I am Mohamed Gad";
 
