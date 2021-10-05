@@ -29,6 +29,13 @@ public:
 			current = current->next;
 		}
 	}
+	~LinkedList() {
+		Link* current = head; 
+		while (current->next != NULL) {
+			delete current;
+			current = current->next; 
+		}
+	}
 };
 
 class LinkedList2 {
