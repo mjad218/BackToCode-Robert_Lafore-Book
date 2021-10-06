@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercises\CH10\Big Array based on small ones.cpp">
+    <ClCompile Include="Exercises\CH10\Pointers Explained Using an Array as a Memory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
