@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercises\CH10\Problem 7.cpp">
+    <ClCompile Include="Exercises\CH10\Big Array based on small ones.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
