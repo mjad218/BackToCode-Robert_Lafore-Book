@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercises\CH 11\late-binding.cpp">
+    <ClCompile Include="Exercises\CH 11\pure-virtual-functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
