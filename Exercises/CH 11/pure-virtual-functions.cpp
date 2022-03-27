@@ -6,9 +6,7 @@ public:
 	//void makeSound() {
 	//	std::cout << "Animal Sound";
 	//}
-	virtual void makeSound() {
-		std::cout << "Animal Sound";
-	}
+	virtual void makeSound() = 0;
 };
 
 class Dog : public Animal {
@@ -27,7 +25,7 @@ public:
 };
 
 int main() {
-	Animal animals; // not alowed Animal is an abstract class
+	// Animal animal; // not alowed Animal is an abstract class
 	Animal* animal;
 	Dog dog;
 	Cat cat;
