@@ -5,14 +5,11 @@
 int main() {
 
 	int integer = 5;
-	float fNum = 5.00;
+	float fNum = 7.1;
+	char ch = 'g';
 	std::string str = "str";
-	std::ofstream file = std::ofstream("text.txt");
+	std::ofstream file = std::ofstream("text4.txt");
+	file << ch << integer << ' ' << fNum << str;
 
-	file << integer << ' ' << fNum << ' ' << str << '\n';
-
-	std::cout << "done";
-
-	std::cin.get();
 	return 0;
 }

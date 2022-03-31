@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercises\CH12\writing-to-files.cpp">
+    <ClCompile Include="Exercises\CH12\reading-from-files.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
