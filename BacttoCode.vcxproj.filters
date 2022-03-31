@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercises\CH 11\friend-functions.cpp">
+    <ClCompile Include="Exercises\CH12\streams.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
