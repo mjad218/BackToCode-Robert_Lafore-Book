@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercises\CH12\reading-from-files.cpp">
+    <ClCompile Include="Exercises\CH12\binary-io.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
